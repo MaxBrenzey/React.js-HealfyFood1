@@ -1,38 +1,51 @@
-.App {
+
+
+.header-text{
+  color: #fff; 
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  background: linear-gradient(0deg, rgb(13, 61, 194) 0%, rgb(13, 61, 194) 100%);
+  margin: 0;
+  padding: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.spin{
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
 }
 
-.App-link {
-  color: #61dafb;
+
+.HealthLabelsDiv{
+  border: 1px solid black;
+  width: 150px;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.658);
+  margin-left: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+.itemPisition{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
+
+.filterItemPosition{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+
+
+
+
+
+
