@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/React.js-HealfyFood1/precache-manifest.381049ed64d161ebf3e09c14b320f0ed.js"
+  "/React.js-HealfyFood1/precache-manifest.6422c5271954214c67537e8680fb18c3.js"
 );
 
 self.addEventListener('message', (event) => {
