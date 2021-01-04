@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React.js-HealfyFood1/static/css/main.e4c698c8.chunk.css",
+    "main.js": "/React.js-HealfyFood1/static/js/main.373a4d35.chunk.js",
+    "main.js.map": "/React.js-HealfyFood1/static/js/main.373a4d35.chunk.js.map",
+    "runtime-main.js": "/React.js-HealfyFood1/static/js/runtime-main.31c14214.js",
+    "runtime-main.js.map": "/React.js-HealfyFood1/static/js/runtime-main.31c14214.js.map",
+    "static/css/2.11829350.chunk.css": "/React.js-HealfyFood1/static/css/2.11829350.chunk.css",
+    "static/js/2.0f2e4fa1.chunk.js": "/React.js-HealfyFood1/static/js/2.0f2e4fa1.chunk.js",
+    "static/js/2.0f2e4fa1.chunk.js.map": "/React.js-HealfyFood1/static/js/2.0f2e4fa1.chunk.js.map",
+    "index.html": "/React.js-HealfyFood1/index.html",
+    "precache-manifest.381049ed64d161ebf3e09c14b320f0ed.js": "/React.js-HealfyFood1/precache-manifest.381049ed64d161ebf3e09c14b320f0ed.js",
+    "service-worker.js": "/React.js-HealfyFood1/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/React.js-HealfyFood1/static/css/2.11829350.chunk.css.map",
+    "static/css/main.e4c698c8.chunk.css.map": "/React.js-HealfyFood1/static/css/main.e4c698c8.chunk.css.map",
+    "static/js/2.0f2e4fa1.chunk.js.LICENSE.txt": "/React.js-HealfyFood1/static/js/2.0f2e4fa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31c14214.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.0f2e4fa1.chunk.js",
+    "static/css/main.e4c698c8.chunk.css",
+    "static/js/main.373a4d35.chunk.js"
+  ]
+}
