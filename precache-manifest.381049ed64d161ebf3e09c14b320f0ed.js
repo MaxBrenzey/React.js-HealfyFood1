@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f52e9af48d9534ab69e36fd28d5d95c8",
+    "revision": "302324d56a3e992af7a5f1839255f105",
     "url": "/React.js-HealfyFood1/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React.js-HealfyFood1/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "7d6fede2e7492fd0933e",
+    "revision": "61340e871a037cc4aeac",
     "url": "/React.js-HealfyFood1/static/css/main.e4c698c8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React.js-HealfyFood1/static/js/2.0f2e4fa1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d6fede2e7492fd0933e",
-    "url": "/React.js-HealfyFood1/static/js/main.f4e847c4.chunk.js"
+    "revision": "61340e871a037cc4aeac",
+    "url": "/React.js-HealfyFood1/static/js/main.373a4d35.chunk.js"
   },
   {
     "revision": "3bddafc0c695f27a4154",
